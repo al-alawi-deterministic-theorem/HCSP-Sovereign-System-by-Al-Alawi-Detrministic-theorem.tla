@@ -11,8 +11,7 @@ The underlying framework is strictly rooted in a **First-Order Non-Linear Partia
 The enclosed TLA+ specification models the core deterministic logic derived from the mathematical theorem, formalized under the following parameters:
 
 * **Non-Linear Dynamic Systems Framework:** Utilizing specialized formal methods (`EXTENDS Reals, Sequences`) to map continuous differential derivatives onto discrete state spaces.
-* **Structural Deterministic Invariants:** Enforcing strict boundary conditions directly on the execution pipeline to ensure a completely Deadlock-Free State Space.
-* **Autonomous Critical Transitions:** Rigorous logic definitions governing the `AutoReset` and time-bound `temporal_lock` parameters for micro-architectural isolation.
+* **Partial Deterministic Calculus Integration:** Direct formulation of first-order non-linear differential equations within the strict logical bounds of the deterministic computing model.
 
 No claims. No opinions. Just mathematics.
 
